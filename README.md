@@ -1,3 +1,26 @@
+# Hola, soy {Tu Nombre} 👋
+
+**Ingeniería de Sistemas @ EAFIT** • Data & Software • Cloud & ETL  
+Apasionado por construir productos útiles y bien hechos.
+
+## 🧰 Tech Stack
+- **Lenguajes:** Python, SQL, C/C++, JavaScript
+- **Datos:** Pandas, PostgreSQL/MySQL, MongoDB, Airflow (básico), dbt (básico)
+- **Cloud & DevOps:** AWS (EC2, S3), Docker, Kubernetes (microk8s), GitHub Actions
+- **Web:** Node.js/Express, FastAPI, React
+
+## 🚀 Proyectos Destacados
+- **Spotly** – Reserva, filtro y preorden en restaurantes/bares.  
+- **Tu Casa IdeAl** – App de IA para diseñar espacios del hogar.  
+- **ETL Retail** – Pipeline de datos (ingesta → limpieza → modelo analítico).
+
+> En mi perfil verás repos con README claros, tests básicos y CI.
+
+## 📫 Contacto
+- LinkedIn: tu_link
+- Email: tu_correo
+
+
 ## Hi there 👋
 
 <!--
