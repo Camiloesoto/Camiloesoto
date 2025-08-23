@@ -7,7 +7,7 @@
 
 ## Sobre mí
 
-Soy un Ingeniero de Sistemas en formación con experiencia en desarrollo de software, gestión de proyectos y coordinación de equipos. Me destaco por mi liderazgo, disciplina y capacidad para coordinar proyectos técnicos de alto impacto. Tengo experiencia en eventos universitarios y emprendedores de gran escala, con enfoque en la gestión de datos y la coordinación de equipos de desarrollo.
+Soy un Ingeniero de Sistemas en formación con experiencia en desarrollo de software, gestión de proyectos y coordinación de equipos. Me destaco por mi liderazgo, disciplina y capacidad para coordinar proyectos técnicos de alto impacto. Tengo experiencia en eventos universitarios y emprendedores de gran escala, con enfoque en la gestión de datos y la coordinación de equipos de desarrollo. Busco oportunidades que combinen el desarrollo técnico con la colaboración estratégica.
 
 ---
 
@@ -45,28 +45,28 @@ Soy un Ingeniero de Sistemas en formación con experiencia en desarrollo de soft
 
 ### Spotly - Plataforma de Restaurantes y Bares
 **Mayo 2025 - Presente** | Proyecto personal  
-Aplicación web para descubrir, filtrar y reservar en restaurantes, bares y clubes. Integra menús digitales, calificaciones y filtros avanzados.
+Desarrollé una aplicación web para descubrir, filtrar y reservar en restaurantes, bares y clubes. Implementé menús digitales, calificaciones en tiempo real y filtros avanzados por categoría, ubicación y calificación. Optimicé con pipelines de agregación e indexación. Proyecto compartido en GitHub.
 
 **Stack:** React.js, Node.js, MongoDB  
 **Estado:** En desarrollo
 
 ### Magneto - Plataforma de Gestión de Empleos
 **Agosto 2024 - Noviembre 2024** | Proyecto para Sura  
-Plataforma para publicar y gestionar ofertas de empleo. Mejora la experiencia del usuario y escalabilidad del sistema.
+Construí una plataforma para gestionar ofertas de empleo con Laravel, PHP y MySQL. Mejoré la navegación del usuario y la escalabilidad del sistema optimizando consultas SQL y procedimientos almacenados.
 
 **Stack:** Laravel, PHP, MySQL  
 **Cliente:** Sura
 
 ### Procesamiento de Imágenes con OpenMP
 **Marzo 2024 - Junio 2024**  
-Rotación y escalado de imágenes en C++ con OpenMP. Aplicación de procesamiento paralelo y gestión de memoria con Buddy System.
+Implementé funciones de rotación y escalado de imágenes en C++ con OpenMP. Aumenté la eficiencia utilizando procesamiento paralelo y un sistema de memoria Buddy.
 
 **Stack:** C++, OpenMP, algoritmos de procesamiento de imágenes  
 **Tipo:** Proyecto académico
 
 ### BusTracker - Sistema de Rastreo de Buses
 **Agosto 2023 - Noviembre 2023**  
-Sistema de rastreo de buses en tiempo real con optimización de rutas y tiempos de espera.
+Creé un sistema de rastreo de buses en tiempo real con Node.js, Express, WebSockets y MongoDB. Reduje los tiempos de espera optimizando rutas utilizando consultas geoespaciales y colecciones TTL.
 
 **Stack:** Node.js, Express, MongoDB, WebSockets  
 **Repositorio:** [Ver proyecto](https://github.com/Camiloesoto/BusTracker)
@@ -98,17 +98,23 @@ Sistema de rastreo de buses en tiempo real con optimización de rutas y tiempos 
 
 ### Club de Mercadeo EAFIT (2024 - Presente)
 - Miembro de los comités de Relaciones Públicas y Conexión Estratégica
-- Gestión de alianzas, marcas y speakers para eventos como "Club Fest" y "Conamerc" (+600 asistentes)
-- Coordinación de talleres y activaciones de marca
+- Gestioné alianzas estratégicas y ponentes para eventos como "Club Fest" y "Conamerc" (+600 asistentes)
+- Coordiné talleres, activaciones de marca y comunicación institucional
 
 ### Tutores EAFIT (2024 - Presente)
 - Director de Feria / Gestión Humana
-- Lideré el manual de marca y logística de eventos con +5,000 asistentes diarios
-- Coordinación del equipo de tutores
+- Dirigí la logística y marca de una feria académica con más de 5.000 asistentes diarios
+- Coordiné equipos de tutores y apoyé en gestión de talento
 
 ### Eternal Exclusive Boutique (2021 - 2024)
 - Fundador y Director de Marca
-- Gestión de tienda digital, ventas y servicio al cliente en e-commerce
+- Fundé y administré una marca de ropa digital con operaciones de e-commerce y redes sociales
+
+### Politécnico Colombiano Jaime Isaza Cadavid | Servicio Social
+**Enero 2021 - Diciembre 2021**
+
+### Torneos de Fútbol Nacionales e Internacionales | Jugador Amateur
+**2015 - Presente**
 
 ---
 
@@ -128,12 +134,26 @@ Sistema de rastreo de buses en tiempo real con optimización de rutas y tiempos 
 - Trabajo en equipo y comunicación efectiva
 - Liderazgo y pensamiento analítico
 - Adaptabilidad y toma de decisiones
-- Gestión emocional y orientación a resultados
+- Inteligencia emocional y orientación a resultados
 - Negociación y gestión de eventos
+
+### Habilidades Técnicas Adicionales
+- Testing y REST APIs
+- Arquitectura de Microservicios
+- Cybersecurity
+- OpenMP y Scrum
 
 ### Idiomas
 - **Español:** Nativo
 - **Inglés:** Avanzado (Aptis B2, Nivel Profesional)
+
+---
+
+## Logros Destacados
+
+- **Creación e implementación del manual de marca de Feria Tutores**
+- **Lideré la organización y ejecución de la Feria de Tutores EAFIT**, con más de 5.000 asistentes diarios y múltiples equipos involucrados
+- **Reconocido por liderazgo y contribución estratégica** en el Club de Mercadeo de EAFIT, coordinando eventos con +600 asistentes
 
 ---
 
@@ -145,7 +165,3 @@ Sistema de rastreo de buses en tiempo real con optimización de rutas y tiempos 
 - [ ] Crear pipelines de datos escalables
 - [ ] Certificaciones AWS (Data path)
 - [ ] Contribuir a proyectos open source de datos
-
----
-
-*Última actualización: Enero 2025*
